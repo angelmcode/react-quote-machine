@@ -1,0 +1,11 @@
+.container-quote-autor {
+    width: 580px;
+    height: 50px;
+    /* border: 1px solid black; */
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial;
+    font-size: 20px;
+}

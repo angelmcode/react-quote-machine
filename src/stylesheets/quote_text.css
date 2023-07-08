@@ -1,0 +1,12 @@
+.container-quote-text {
+    width: 520px;
+    height: 220px;
+    /* border: 1px solid black; */
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+}
